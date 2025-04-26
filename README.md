@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **NextJs, NuxtJs**
 
-- 📫 How to reach me **amcheachamroeun20@kit.edu.kh**
+- 📫 How to reach me **amcheachamroeun87@gmail.com**
 
 - ⚡ Fun fact **I think I am Open-minded and Team player with Cooperatives Spirit**
 
