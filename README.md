@@ -7,8 +7,8 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=am-cheachamroeun&label=Profile%20Views&color=blueviolet&style=flat-square" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/am-cheachamroeun?label=Followers&style=flat-square&color=blue" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=Am-CheaChamroeun&label=Profile%20Views&color=blueviolet&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Am-CheaChamroeun?label=Followers&style=flat-square&color=blue" alt="followers" />
 </p>
 
 <div align="center">
@@ -53,7 +53,7 @@ const chamroeun = {
 ## 💼 Portfolio
 
 <div align="center">
-  <a href="https://am-cheachamroeun.vercel.app/" target="_blank">
+  <a href="https://Am-CheaChamroeun.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_View_My_Portfolio-FF6B6B?style=for-the-badge&logoColor=white" alt="portfolio" />
   </a>
 </div>
@@ -168,14 +168,14 @@ const chamroeun = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=am-cheachamroeun&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" height="195px" src="https://streak-stats.demolab.com?user=am-cheachamroeun&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Am-CheaChamroeun&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" height="195px" src="https://streak-stats.demolab.com?user=Am-CheaChamroeun&theme=radical&hide_border=false" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=am-cheachamroeun&layout=compact&theme=radical&hide_border=false&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Am-CheaChamroeun&layout=compact&theme=radical&hide_border=false&langs_count=8" alt="Top Languages" />
 </div>
 
 <br/>
@@ -185,7 +185,7 @@ const chamroeun = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=am-cheachamroeun&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Am-CheaChamroeun&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 <br/>
@@ -193,7 +193,7 @@ const chamroeun = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=am-cheachamroeun&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Am-CheaChamroeun&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 <br/>
@@ -220,13 +220,13 @@ const chamroeun = {
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/am-cheachamroeun" target="_blank">
+  <a href="https://linkedin.com/in/Am-CheaChamroeun" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:amcheachamroeun87@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://am-cheachamroeun.vercel.app/" target="_blank">
+  <a href="https://Am-CheaChamroeun.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
