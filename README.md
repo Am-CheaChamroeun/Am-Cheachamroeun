@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Chamroeun+%F0%9F%91%8B;Full-Stack+Software+Engineer+%F0%9F%92%BB;Open-minded+%26+Team+Player+%F0%9F%9A%80;Building+Amazing+Web+Experiences+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Chamroeun+👋;Full-Stack+Software+Engineer+💻;Open-minded+%26+Team+Player+🚀;Building+Amazing+Web+Experiences+✨" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -13,12 +13,12 @@
 
 <br/>
 
-## =� About Me
+## 🚀 About Me
 
 ```javascript
 const chamroeun = {
     pronouns: "He" | "Him",
-    location: "Cambodia <�<�",
+    location: "Cambodia 🇰🇭",
     role: "Software Engineer",
     currentFocus: ["Next.js", "Express.js", "Full-Stack Development"],
     askMeAbout: ["Next.js", "Nuxt.js", "Vue.js", "React", "Node.js"],
@@ -37,23 +37,23 @@ const chamroeun = {
         tools: ["Postman", "Figma", "VS Code"]
     },
     architecture: ["Microservices", "RESTful APIs", "SPA", "SSR"],
-    funFact: "I debug with console.log() and I'm not ashamed! ="
+    funFact: "I debug with console.log() and I'm not ashamed! 😄"
 };
 ```
 
 <br/>
 
-## =� Portfolio
+## 💼 Portfolio
 
 <div align="center">
   <a href="https://amcheachamroeun-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/<_View_My_Portfolio-FF6B6B?style=for-the-badge&logoColor=white" alt="portfolio" />
+    <img src="https://img.shields.io/badge/🌐_View_My_Portfolio-FF6B6B?style=for-the-badge&logoColor=white" alt="portfolio" />
   </a>
 </div>
 
 <br/>
 
-## =� Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -110,7 +110,7 @@ const chamroeun = {
 
 <br/>
 
-## =� GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=am-cheachamroeun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -123,7 +123,7 @@ const chamroeun = {
 
 <br/>
 
-## <� GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=am-cheachamroeun&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
@@ -131,7 +131,7 @@ const chamroeun = {
 
 <br/>
 
-## =� Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=am-cheachamroeun&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
@@ -139,7 +139,7 @@ const chamroeun = {
 
 <br/>
 
-## > Connect With Me
+## 🤝 Connect With Me
 
 <div align="center">
   <a href="https://linkedin.com/in/am-cheachamroeun" target="_blank">
@@ -155,7 +155,7 @@ const chamroeun = {
 
 <br/>
 
-## =� Random Dev Quote
+## 💭 Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
@@ -168,5 +168,5 @@ const chamroeun = {
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%98%8A;Let's+build+something+amazing+together!+%F0%9F%9A%80;Happy+Coding!+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+😊;Let's+build+something+amazing+together!+🚀;Happy+Coding!+💻" alt="Typing SVG" />
 </div>
