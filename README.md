@@ -165,15 +165,22 @@ const chamroeun = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Am-CheaChamroeun&show_icons=true&theme=radical&hide_border=false&count_private=true)](https://github.com/Am-CheaChamroeun)
+![GitHub Streak](https://streak-stats.demolab.com?user=Am-CheaChamroeun&theme=radical&hide_border=false)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Am-CheaChamroeun&theme=radical&hide_border=false)](https://github.com/Am-CheaChamroeun)
+<br/>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Am-CheaChamroeun&layout=compact&theme=radical&hide_border=false&langs_count=8)](https://github.com/Am-CheaChamroeun)
+### 💻 Coding Journey
+*Building amazing projects one commit at a time!*
+
+<br/>
+
+**🚀 Currently working on exciting full-stack projects**
+**🌱 Always learning and growing**
+**💡 Open to collaboration and new opportunities**
 
 </div>
 
