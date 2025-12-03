@@ -20,7 +20,7 @@ const chamroeun = {
     pronouns: "He" | "Him",
     location: "Cambodia 🇰🇭",
     role: "Software Engineer",
-    currentFocus: ["Next.js", "Express.js", "Full-Stack Development"],
+    currentFocus: ["Nuxt.js", "Nest.js", "Full-Stack Development"],
     askMeAbout: ["Next.js", "Nuxt.js", "Vue.js", "React", "Node.js"],
     technologies: {
         frontEnd: {
@@ -36,7 +36,6 @@ const chamroeun = {
         devOps: ["Docker", "AWS", "Git"],
         tools: ["Postman", "Figma", "VS Code"]
     },
-    architecture: ["Microservices", "RESTful APIs", "SPA", "SSR"],
     funFact: "I debug with console.log() and I'm not ashamed! 😄"
 };
 ```
@@ -46,7 +45,7 @@ const chamroeun = {
 ## 💼 Portfolio
 
 <div align="center">
-  <a href="https://amcheachamroeun-portfolio.vercel.app/" target="_blank">
+  <a href="https://am-cheachamroeun.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_View_My_Portfolio-FF6B6B?style=for-the-badge&logoColor=white" alt="portfolio" />
   </a>
 </div>
@@ -113,12 +112,12 @@ const chamroeun = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=am-cheachamroeun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=am-cheachamroeun&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=am-cheachamroeun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=am-cheachamroeun&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=am-cheachamroeun&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=am-cheachamroeun&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 <br/>
@@ -148,7 +147,7 @@ const chamroeun = {
   <a href="mailto:amcheachamroeun87@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://amcheachamroeun-portfolio.vercel.app/" target="_blank">
+  <a href="https://am-cheachamroeun.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
