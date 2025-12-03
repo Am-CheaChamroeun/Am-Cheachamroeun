@@ -168,14 +168,13 @@ const chamroeun = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Am-CheaChamroeun&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" height="195px" src="https://streak-stats.demolab.com?user=Am-CheaChamroeun&theme=radical&hide_border=false" alt="GitHub Streak" />
-</div>
 
-<br/>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Am-CheaChamroeun&show_icons=true&theme=radical&hide_border=false&count_private=true)](https://github.com/Am-CheaChamroeun)
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Am-CheaChamroeun&layout=compact&theme=radical&hide_border=false&langs_count=8" alt="Top Languages" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=Am-CheaChamroeun&theme=radical&hide_border=false)](https://github.com/Am-CheaChamroeun)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Am-CheaChamroeun&layout=compact&theme=radical&hide_border=false&langs_count=8)](https://github.com/Am-CheaChamroeun)
+
 </div>
 
 <br/>
