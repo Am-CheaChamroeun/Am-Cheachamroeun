@@ -1,6 +1,6 @@
 <!-- Cover Image -->
 <div align="center">
-  <img src="[https://i.pinimg.com/736x/c5/61/e7/c561e73379f055230668dccad1e0c12e.jpg](https://i.pinimg.com/736x/6b/a2/50/6ba250e1c394713dd3db0107c7322391.jpg)" width="100%" alt="Cover"/>
+  <img src="https://i.pinimg.com/736x/6b/a2/50/6ba250e1c394713dd3db0107c7322391.jpg" width="100%" alt="Cover"/>
 </div>
 
 <!-- Border -->
