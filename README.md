@@ -24,9 +24,6 @@
   </p>
 </div>
 
-<!-- Border -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <!-- Profile Stats Badges -->
 <div align="center">
   <a href="https://github.com/Am-CheaChamroeun">
@@ -41,9 +38,6 @@
 </div>
 
 <br>
-
-<!-- Border -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- About Me Section -->
 <h2 align="center">About Me</h2>
@@ -84,9 +78,6 @@
 
 <br clear="both">
 
-<!-- Border -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <!-- GitHub Status -->
 <h2 align="center">GitHub Status</h2>
 
@@ -103,9 +94,6 @@
 
 <br>
 
-<!-- Border -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <!-- Languages & Tools -->
 <h2 align="center">Languages & tools I Have placed My Hands On</h2>
 
@@ -120,9 +108,6 @@
 </div>
 
 <br>
-
-<!-- Border -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Tech Stack Badges -->
 <h2 align="center">Tech Stack:</h2>
@@ -147,9 +132,6 @@
 </div>
 
 <br>
-
-<!-- Border -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Support Me -->
 <h2 align="center">Support Me</h2>
