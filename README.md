@@ -185,9 +185,23 @@ const chamroeun = {
 </tr>
 </table>
 
+<br/>
+
+<!-- Spinning tech sphere -->
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2bc.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212280805-9f2f7369-c3c1-499a-bd6a-7c5e09e9e753.gif" width="100">
+
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Pac-Man divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="900">
+</div>
 
 ## 📊 GitHub Stats
 
@@ -219,7 +233,20 @@ const chamroeun = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Am-CheaChamroeun&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Am-CheaChamroeun/Am-CheaChamroeun/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Am-CheaChamroeun/Am-CheaChamroeun/output/github-contribution-grid-snake.svg"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Am-CheaChamroeun/Am-CheaChamroeun/output/github-contribution-grid-snake.svg"/>
+  </picture>
+</div>
+
+<!-- Pac-Man divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="900">
+</div>
 
 ## 🎯 Current Focus
 
@@ -238,6 +265,11 @@ const chamroeun = {
 ## 🤝 Connect With Me
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="200"/>
+
+<br/>
+
   <a href="https://linkedin.com/in/Am-CheaChamroeun" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
